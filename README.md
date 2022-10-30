@@ -1,6 +1,6 @@
 # PIPETTE I/O Stack
 
-This is the source code repository for the paper entitled "PIPETTE: Efficient Fine-Grained Reads for SSDs" in the 2022 Design Automation Conference
+This is the source code repository for the paper entitled "PIPETTE: Efficient Fine-Grained Reads for SSDs" in the 2022 Design Automation Conference.
 
 ## How to use
 
